@@ -1,0 +1,38 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Desktop\HyperEx\HyperEx_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Desktop\HyperEx\HyperEx_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\HyperEx\HyperEx_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Desktop\HyperEx\HyperEx_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\HyperEx\HyperEx_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\user\Desktop\HyperEx\HyperEx_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\HyperEx\HyperEx_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\user\Desktop\HyperEx\HyperEx_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: C:\Users\user\Desktop\HyperEx\HyperEx_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\user\Desktop\HyperEx\HyperEx_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.716624 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.755378 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 198.
+Total: 10.658821 ms (FindLiveObjects: 0.024192 ms CreateObjectMapping: 0.013929 ms MarkObjects: 4.185744 ms  DeleteObjects: 6.434221 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.335402 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 337.
+Total: 0.645878 ms (FindLiveObjects: 0.023093 ms CreateObjectMapping: 0.026758 ms MarkObjects: 0.582096 ms  DeleteObjects: 0.013196 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 8cc -> priority: 1 
